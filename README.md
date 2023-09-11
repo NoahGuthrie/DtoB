@@ -1,2 +1,2 @@
 # DtoB
-This code will convert decimal numbers to binary numbers.
+Converts decimal numbers to binary numbers.
